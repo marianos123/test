@@ -1,1 +1,1 @@
-print ('TEST GIT repo')
+print ('TEST GIT repository')
